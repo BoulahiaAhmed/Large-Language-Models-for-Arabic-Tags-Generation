@@ -1,6 +1,9 @@
 # Large-Language-Models-for-Arabic-Tags-Generation
 In this repository, we will be in the process of fine-tuning four different large language models (LLMs) using an Arabic dataset. We'll delve into the intricacies of adapting these models to perform specialized tasks in Arabic natural language processing. 
 
+![thumbnail](https://github.com/BoulahiaAhmed/Large-Language-Models-for-Arabic-Tags-Generation/assets/45523231/bc616ec0-d86d-4d29-88f1-02fb7076274d)
+
+
 Our objective is straightforward: to use LLMs to automatically generate descriptive tags for Arabic quotes. 
 This task not only demonstrates the linguistic prowess of LLMs but also showcases their potential in Arabic language applications.
 
