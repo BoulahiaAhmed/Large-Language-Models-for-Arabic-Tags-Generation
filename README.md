@@ -18,7 +18,7 @@ In this project, we explored the capabilities of LLMs in understanding and gener
 
 ## Watch Our Videos
 
-For a visual walkthrough of our project, don't miss our [YouTube video](https://www.youtube.com/@latenightcoding).
+For a visual walkthrough of our project, don't miss our [YouTube video](https://youtu.be/tjWs1gkMfi0?si=2CXS0k3qXzshzT3O).
 
 ## Stay Updated
 
